@@ -2,7 +2,7 @@
 
 Hey I'm Playingallday383! Also known as XSTARS or John
 
-I am a youtuber but I also have a pasion for coding and scripting. I have made a ton of softwares and websites and I mostly make stuff in [z1g Project](https://github.com/z1g-project/)
+I am a youtuber but I also have a pasion for coding and scripting. I have made a ton of softwares and websites and I mostly make stuff in [z1g Project](https://github.com/z1g-project/) but I also work on [Terbium](https://github.com/TerbiumOS)!
 
 Right now im up to:
 
